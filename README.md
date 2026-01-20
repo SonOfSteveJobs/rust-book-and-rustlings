@@ -1,4 +1,4 @@
-# Rust Book - Изучение языка программирования Rust
+# Rust Book + Rustlings - Изучение языка программирования Rust
 
 Этот репозиторий содержит примеры кода и проекты из книги "The Rust Programming Language".
 
