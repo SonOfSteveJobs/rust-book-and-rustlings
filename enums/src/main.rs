@@ -59,8 +59,8 @@ fn main() {
     match_variant(Variant::Three);
     match_variant(Variant::Four);
 
-    let variant = Some(Variant::Three);
-    if let Some(Variant::Three) = variant {
+    let variant = Variant::Three;
+    if let Variant::Three = variant {
         println!("Three if let");
     }
 
